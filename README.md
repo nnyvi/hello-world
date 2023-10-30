@@ -4,4 +4,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial.
 It includes steps for Github
-I want change in master branch
+I want change in html-skeleton branch
